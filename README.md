@@ -1,6 +1,6 @@
  ### Hi, I'm Rita 👋
 
-I'm Rita Shaykhlislamova a beginner front-end development. Experienced both inb Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
+I'm Rita Shaikhlislamova a beginner front-end development. Experienced both inb Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
 
 :mailbox: Reach me out!
 
